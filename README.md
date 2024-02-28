@@ -1,5 +1,7 @@
  # Image Caption Generator using Transfer Learning and Encoder-Decoder Architecture
- 
+### DataSet and Code
+* Get the dataset and code --> [kaggle](https://www.kaggle.com/code/satyakiranv/imagecap-flicker) 
+* Know more about --> [VGG16 Model](https://medium.com/@mygreatlearning/everything-you-need-to-know-about-vgg16-7315defb5918)
 ## Description:
 This project leverages transfer learning from the VGG16 model combined with an encoder-decoder architecture to generate captions for images.
 Transfer learning enables the model to utilize pre-trained weights from VGG16, which has been trained on a large dataset, allowing it to capture meaningful image features effectively.
@@ -18,6 +20,4 @@ The encoder processes the image and extracts relevant features, while the decode
 * Incorporating attention mechanisms to focus on relevant parts of the image.
 * Enhancing the dataset for broader coverage of image-caption pairs.
 
-# DataSet and Code
-* [kaggle](https://www.kaggle.com/code/satyakiranv/imagecap-flicker)
-* [VGG16 Model](https://medium.com/@mygreatlearning/everything-you-need-to-know-about-vgg16-7315defb5918)
+
